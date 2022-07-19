@@ -36,15 +36,13 @@ The main aim of an extension is to serve a single purpose around which the whole
 
 
 ## VIDEO
-
-
 <figure class="video_container">
-  
-     <iframe src="https://user-images.githubusercontent.com/99706585/179740812-952ec076-a962-46a9-bad8-4776409faa39.mov" frameborder="0" allowfullscreen="true"> </iframe>
-
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
 </figure>
-
-
 ## Built with
 
 => HTML, JavaScript , manifest.json and CSS .
