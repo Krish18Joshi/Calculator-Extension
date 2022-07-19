@@ -36,7 +36,10 @@ The main aim of an extension is to serve a single purpose around which the whole
 
 
 ## VIDEO
-[![Watch the video](https://user-images.githubusercontent.com/99706585/179744422-880eed27-b590-4392-bef2-21b984eaa332.png)](https://user-images.githubusercontent.com/99706585/179744150-83b64d3d-0bd2-4c23-aa9e-518fee306606.mov)
+[![Watch the video](https://user-images.githubusercontent.com/99706585/179744422-880eed27-b590-4392-bef2-21b984eaa332.png)](https://user-images.githubusercontent.com/99706585/179744863-ef714d35-7a36-49a0-bbba-92bb7c80a9fd.mov)
+
+
+
 
 
 ## Built with
