@@ -31,18 +31,17 @@ The main aim of an extension is to serve a single purpose around which the whole
 ## Table of contents
 
 - [VIDEO](#VIDEO)
-- [Links](#Link)
 - [Built with](#built-with)
 
 
 
 ## VIDEO
 
-
+<figure class="video_container">
 
 https://user-images.githubusercontent.com/99706585/179740812-952ec076-a962-46a9-bad8-4776409faa39.mov
 
-
+</figure>
 
 ## Built with
 => HTML, JavaScript , manifest.json and CSS .
