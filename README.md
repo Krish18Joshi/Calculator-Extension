@@ -36,13 +36,9 @@ The main aim of an extension is to serve a single purpose around which the whole
 
 
 ## VIDEO
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
-  </video>
-</figure>
+[![Watch the video](https://user-images.githubusercontent.com/99706585/179744422-880eed27-b590-4392-bef2-21b984eaa332.png)](https://user-images.githubusercontent.com/99706585/179744150-83b64d3d-0bd2-4c23-aa9e-518fee306606.mov)
+
+
 ## Built with
 
 => HTML, JavaScript , manifest.json and CSS .
