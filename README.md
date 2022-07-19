@@ -39,10 +39,9 @@ The main aim of an extension is to serve a single purpose around which the whole
 
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://user-images.githubusercontent.com/99706585/179741523-00dee9f1-98cd-400f-b911-1d98e4858ede.png">
-
+  
      <iframe src="https://user-images.githubusercontent.com/99706585/179740812-952ec076-a962-46a9-bad8-4776409faa39.mov" frameborder="0" allowfullscreen="true"> </iframe>
-  </video>
+
 </figure>
 
 
