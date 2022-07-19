@@ -37,11 +37,15 @@ The main aim of an extension is to serve a single purpose around which the whole
 
 ## VIDEO
 
+
 <figure class="video_container">
-
-https://user-images.githubusercontent.com/99706585/179740812-952ec076-a962-46a9-bad8-4776409faa39.mov
-
+  <video controls="true" allowfullscreen="true" poster="https://user-images.githubusercontent.com/99706585/179741523-00dee9f1-98cd-400f-b911-1d98e4858ede.png">
+    <source src="https://user-images.githubusercontent.com/99706585/179740812-952ec076-a962-46a9-bad8-4776409faa39.mov" type="video/mp4">
+   
+  </video>
 </figure>
 
+
 ## Built with
+
 => HTML, JavaScript , manifest.json and CSS .
